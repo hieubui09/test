@@ -1,0 +1,24 @@
+body{
+    width: 980px;
+    margin: 0px auto;
+}
+header{
+    height: 100px;
+    background-color: 	#DCDCDC;
+}
+nav{
+    background: #fff;
+}
+section{
+    background-color: 	#DCDCDC;
+    height: 800px;
+}
+.footer{
+    background-color: 	#DCDCDC;
+    text-align: center;
+    
+}
+.left{
+    float: left;
+    width: 40%;
+}
